@@ -15,7 +15,7 @@ namespace OSTPC_Les4_Home
             evenList = GetAllEvenNumbers(list);
             notEvenList = GetAllNotEvenNumbers(list);
             PrintList(evenList,0);
-            PrintList(notEvenList,1);
+            PrintList(notEvenList,1);;
         }
 
         static int GetNumberOfEnteredNumbers() {
@@ -77,7 +77,7 @@ namespace OSTPC_Les4_Home
             }
            
             foreach (int variable in list) {
-                Console.Write($"{variable}  " );
+                Console.Write($"{variable}  ");
             }
             Console.WriteLine();
         }
@@ -102,10 +102,7 @@ namespace OSTPC_Les4_Home
             }
             return notEvenList;
         }
-        static void ClearList(List<int> list) {
-            foreach (int variable in list) {
-                list.Remove(variable);
-            }
+
         }
     }
-}
+
