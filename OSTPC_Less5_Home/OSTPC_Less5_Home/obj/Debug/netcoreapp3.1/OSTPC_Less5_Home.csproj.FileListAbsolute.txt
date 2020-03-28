@@ -1,0 +1,11 @@
+D:\Projects\OSTPC Course\Homework\OSTPC_Less5_Home\OSTPC_Less5_Home\bin\Debug\netcoreapp3.1\OSTPC_Less5_Home.exe
+D:\Projects\OSTPC Course\Homework\OSTPC_Less5_Home\OSTPC_Less5_Home\bin\Debug\netcoreapp3.1\OSTPC_Less5_Home.deps.json
+D:\Projects\OSTPC Course\Homework\OSTPC_Less5_Home\OSTPC_Less5_Home\bin\Debug\netcoreapp3.1\OSTPC_Less5_Home.runtimeconfig.json
+D:\Projects\OSTPC Course\Homework\OSTPC_Less5_Home\OSTPC_Less5_Home\bin\Debug\netcoreapp3.1\OSTPC_Less5_Home.runtimeconfig.dev.json
+D:\Projects\OSTPC Course\Homework\OSTPC_Less5_Home\OSTPC_Less5_Home\bin\Debug\netcoreapp3.1\OSTPC_Less5_Home.dll
+D:\Projects\OSTPC Course\Homework\OSTPC_Less5_Home\OSTPC_Less5_Home\bin\Debug\netcoreapp3.1\OSTPC_Less5_Home.pdb
+D:\Projects\OSTPC Course\Homework\OSTPC_Less5_Home\OSTPC_Less5_Home\obj\Debug\netcoreapp3.1\OSTPC_Less5_Home.csprojAssemblyReference.cache
+D:\Projects\OSTPC Course\Homework\OSTPC_Less5_Home\OSTPC_Less5_Home\obj\Debug\netcoreapp3.1\OSTPC_Less5_Home.AssemblyInfoInputs.cache
+D:\Projects\OSTPC Course\Homework\OSTPC_Less5_Home\OSTPC_Less5_Home\obj\Debug\netcoreapp3.1\OSTPC_Less5_Home.AssemblyInfo.cs
+D:\Projects\OSTPC Course\Homework\OSTPC_Less5_Home\OSTPC_Less5_Home\obj\Debug\netcoreapp3.1\OSTPC_Less5_Home.dll
+D:\Projects\OSTPC Course\Homework\OSTPC_Less5_Home\OSTPC_Less5_Home\obj\Debug\netcoreapp3.1\OSTPC_Less5_Home.pdb

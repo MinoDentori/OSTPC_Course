@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "OSTPC_Less5_Home/1.0.0": {
+        "runtime": {
+          "OSTPC_Less5_Home.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OSTPC_Less5_Home/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
